@@ -10,3 +10,5 @@ untracked test
 
 
 track git update
+
+git tracks changes of files.
